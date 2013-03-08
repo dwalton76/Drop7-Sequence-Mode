@@ -1,10 +1,11 @@
-
 Compiling
 ==================
 There are three programs to compile:
 
  gcc -o drop7.cgi drop7.c drop7core.c
+ 
  gcc -o drop7display.cgi drop7display.c drop7core.c
+ 
  gcc -o permutations.cgi permutations.c
 
 
